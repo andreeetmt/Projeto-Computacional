@@ -91,7 +91,7 @@ bool CasaOcupada(int posicao) {
     return tabuleiro[posicao - 1] != " ";
 }
 ```
-Verifica se uma posiçao no tabuleiro está ocupada.
+Verifica se uma posição no tabuleiro está ocupada.
 
 ### Verificação de empate
 
@@ -167,7 +167,7 @@ bool vitoriaO() {
     return false;
 }
 ```
-Nesta parte, é verificado as condiçoes de vitória padrões do jogo da velha.
+Nesta parte, é verificado as condições de vitória padrões do jogo da velha.
 
 ### Função Principal
 ```cpp
@@ -375,7 +375,6 @@ Função principal do código, apresentando o menu e suas opções de jogo e o c
 
 ## 📍Conclusão
 
-Este jogo da velha é uma aplicação simples que demonstra conceitos fundamentais de programação em C++. 
-Foi feito como projeto computacional para a matéria Computação para Engenharia. 
+Este jogo da velha é uma aplicação simples que demonstra conceitos fundamentais de programação em C++. Foi feito como projeto computacional para a matéria Computação para Engenharia. 
 O jogo apresenta os conceitos de vetores, funções, loops e manipulação de entradas/saídas em C++.
 
