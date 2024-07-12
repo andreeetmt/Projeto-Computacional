@@ -22,7 +22,7 @@ Este é um código feito na linguagem C++ para representar um clássico jogo da 
 - `#include <random>` - Biblioteca para usar o random
 - `#include <unistd.h>` - Biblioteca para usar a função sleep()
 
-## Funções Importantes 
+##⚠️Funções Importantes 
 
 ### Limpar Tela
 ```cpp
