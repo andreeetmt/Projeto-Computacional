@@ -45,7 +45,7 @@ uniform_int_distribution<> dist(0, 8);
 ```
 Função para o computador gerar números e assim decidir suas jogadas.
 
-###  Declaraçao de variáveis
+###  Declaração de variáveis
 ```cpp
 
 vector<string> tabuleiro(9, " "); 
