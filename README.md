@@ -1,8 +1,3 @@
-# Projeto-Computacional
-Projeto Computacional - Computação para Engenharia - Turma 01- Professor Wesin alves
-
-
-
 ![giphy](https://github.com/user-attachments/assets/443417ec-616a-4fcd-8ab9-f4f5bb800f60)
 <h1 align="center"> Jogo da Idosa👵🎮 </h1>
 
