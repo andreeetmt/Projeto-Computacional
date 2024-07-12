@@ -1,6 +1,8 @@
 <h1 align="center"> Jogo da Idosa👵🎮 </h1>
 
-![giphy](https://github.com/user-attachments/assets/443417ec-616a-4fcd-8ab9-f4f5bb800f60)
+<p align="center">
+  <img src="src/giphy.gif" alt="">
+</p>
 
 
 ## Introdução
