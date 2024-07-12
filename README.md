@@ -382,4 +382,6 @@ O jogo apresenta os conceitos de vetores, funções, loops e manipulação de en
 ## Links
 
 [Slides do Projeto](https://unbbr-my.sharepoint.com/:p:/g/personal/241008569_aluno_unb_br/EdaIsIvQT8tBm3w-UAWVJZoBt0MDB064p6-lMBjtndL5gA?e=tA2hkO)
+
+
 [Vídeo Explicativo Sobre o Trabalho](https://youtu.be/4AxIRIMuOp0)
