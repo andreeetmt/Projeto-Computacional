@@ -66,7 +66,7 @@ void TabuleiroNovo() {
     tabuleiro.resize(9, " ");
 }
 ```
-Inicia um tabuleiro clássico de jogo da velha.
+Forma um tabuleiro clássico de jogo da velha.
 
 
 ###  Tabuleiro Por Jogada
