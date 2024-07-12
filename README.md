@@ -371,7 +371,7 @@ Nesta parte, é verificado as condições de vitória padrões do jogo da velha.
 }
 ```
 
-Função principal do código, apresentando o menu e suas opções de jogo e o conteudo em geral que faz o programa funcionar de sua melhor maneira.
+Função principal do código, apresentando o menu e suas opções de jogo e o conteúdo em geral que faz o programa funcionar de sua melhor maneira.
 
 ## 📍Conclusão
 
